@@ -2,3 +2,7 @@
 *.obj
 
 *.mtl
+
+*.spp
+
+*.painter_lock
